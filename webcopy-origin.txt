@@ -1,0 +1,1996 @@
+Uri: https://dientu2.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/bo-dieu-khien/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\bo-dieu-khien\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/bo-dieu-khien/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\bo-dieu-khien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/cam-bien-autonics/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\cam-bien-autonics\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/cam-bien-autonics/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\cam-bien-autonics\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/cong-tac-den-bao-nut-nhan-autonics/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\cong-tac-den-bao-nut-nhan-autonics\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/cong-tac-den-bao-nut-nhan-autonics/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\cong-tac-den-bao-nut-nhan-autonics\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/counter-timer/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\counter-timer\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/counter-timer/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\counter-timer\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/phu-kien/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\phu-kien\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/phu-kien/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\phu-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/ro-le-ban-dan/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\ro-le-ban-dan\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/ro-le-ban-dan/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\ro-le-ban-dan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/autonics/thiet-bi-ket-noi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\thiet-bi-ket-noi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/autonics/thiet-bi-ket-noi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\autonics\thiet-bi-ket-noi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/che-tao-tu-dien/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\che-tao-tu-dien\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/chinh-sach-bao-hanh/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\chinh-sach-bao-hanh\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/chinh-sach-doi-tra/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\chinh-sach-doi-tra\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/chinh-sach-thanh-toan/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\chinh-sach-thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/chinh-sach-van-chuyen/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\chinh-sach-van-chuyen\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/bien-tan-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bien-tan-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/bien-tan-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bien-tan-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/bo-dieu-khien-nhiet-do-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bo-dieu-khien-nhiet-do-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/bo-dieu-khien-nhiet-do-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bo-dieu-khien-nhiet-do-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/bo-nguon-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bo-nguon-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/bo-nguon-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\bo-nguon-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/dieu-khien-dong-co/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\dieu-khien-dong-co\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/dieu-khien-dong-co/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\dieu-khien-dong-co\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/hmi-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\hmi-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/hmi-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\hmi-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/phu-kien-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\phu-kien-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/phu-kien-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\phu-kien-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/delta/plc-delta/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\plc-delta\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/delta/plc-delta/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\delta\plc-delta\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/dien-dan-dung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\dien-dan-dung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/bo-dieu-khien-nhiet-do/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\bo-dieu-khien-nhiet-do\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/bo-dieu-khien-nhiet-do/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\bo-dieu-khien-nhiet-do\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/bo-nguon-hanyoung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\bo-nguon-hanyoung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/bo-nguon-hanyoung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\bo-nguon-hanyoung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cam-bien-encoder/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cam-bien-encoder\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cam-bien-encoder/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cam-bien-encoder\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cau-dau-h/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cau-dau-h\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cau-dau-h/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cau-dau-h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cong-tac-den-bao-nut-nhan-hanyoung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cong-tac-den-bao-nut-nhan-hanyoung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/cong-tac-den-bao-nut-nhan-hanyoung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\cong-tac-den-bao-nut-nhan-hanyoung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/counter-timer-hanyoung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\counter-timer-hanyoung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/counter-timer-hanyoung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\counter-timer-hanyoung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/phu-kien-hanyoung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\phu-kien-hanyoung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/hanyoung/phu-kien-hanyoung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\hanyoung\phu-kien-hanyoung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/bo-nguon-idec/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\bo-nguon-idec\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/bo-nguon-idec/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\bo-nguon-idec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/chuyen-mach/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\chuyen-mach\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/chuyen-mach/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\chuyen-mach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/hmi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\hmi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/hmi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\hmi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/hop-dieu-khien/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\hop-dieu-khien\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/hop-dieu-khien/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\hop-dieu-khien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/plc-idec/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\plc-idec\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/plc-idec/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\plc-idec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/relay-idec/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\relay-idec\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/relay-idec/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\relay-idec\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/idec/timer/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\timer\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/idec/timer/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\idec\timer\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/iot-smart-factory/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\iot-smart-factory\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/leipole/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\leipole\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/leipole/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\leipole\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/bien-tan-ls/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\bien-tan-ls\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/bien-tan-ls/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\bien-tan-ls\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/dong-co-servo/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\dong-co-servo\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/dong-co-servo/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\dong-co-servo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/may-cat-khong-khi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\may-cat-khong-khi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/may-cat-khong-khi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\may-cat-khong-khi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/phu-kien-ls/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\phu-kien-ls\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/phu-kien-ls/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\phu-kien-ls\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/plc/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\plc\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/plc/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\plc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/ro-le/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\ro-le\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/ro-le/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\ro-le\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/ls/thiet-bi-dong-cat/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\thiet-bi-dong-cat\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/ls/thiet-bi-dong-cat/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\ls\thiet-bi-dong-cat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/lv426310-4p-16a-36ka-380-415v/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\lv426310-4p-16a-36ka-380-415v\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/lv426311-4p-25a-36ka-380-415v/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\lv426311-4p-25a-36ka-380-415v\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/lv426312-4p-32a-36ka-380-415v/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\lv426312-4p-32a-36ka-380-415v\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/lv426313-4p-40a-36ka-380-415v/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\lv426313-4p-40a-36ka-380-415v\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/may-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\may-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/may-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\may-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/mitsubishi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\mitsubishi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/mitsubishi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\mitsubishi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/bien-tan-omron/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bien-tan-omron\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/bien-tan-omron/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bien-tan-omron\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-dieu-khien-truyen-dong/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-dieu-khien-truyen-dong\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-dieu-khien-truyen-dong/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-dieu-khien-truyen-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-lap-trinh-plc/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-lap-trinh-plc\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-lap-trinh-plc/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-lap-trinh-plc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-nguon/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-nguon\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/bo-nguon/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\bo-nguon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/cong-tac-hanh-trinh/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\cong-tac-hanh-trinh\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/cong-tac-hanh-trinh/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\cong-tac-hanh-trinh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/encoder/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\encoder\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/encoder/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\encoder\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/man-hinh-hmi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\man-hinh-hmi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/man-hinh-hmi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\man-hinh-hmi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/omron/servo/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\servo\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/omron/servo/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\omron\servo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/oriental-motor/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\oriental-motor\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/oriental-motor/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\oriental-motor\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-bao/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-bao\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-bao/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-bao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-chieu-sang/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-chieu-sang\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-chieu-sang/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-chieu-sang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-thap-patlite/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-thap-patlite\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/den-thap-patlite/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\den-thap-patlite\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/loa/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\loa\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/loa/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\loa\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/phu-kien-patlite/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\phu-kien-patlite\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/phu-kien-patlite/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\phu-kien-patlite\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/patlite/thiet-bi-bao-dong/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\thiet-bi-bao-dong\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/patlite/thiet-bi-bao-dong/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\patlite\thiet-bi-bao-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/proface/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/proface/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/proface/man-hinh-hmi-f/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\man-hinh-hmi-f\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/proface/man-hinh-hmi-f/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\man-hinh-hmi-f\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/proface/may-tinh-cong-nghiep/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\may-tinh-cong-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/proface/may-tinh-cong-nghiep/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\may-tinh-cong-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/proface/phu-kien-hmi/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\phu-kien-hmi\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/proface/phu-kien-hmi/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\proface\phu-kien-hmi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/robot-cong-nghiep/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\robot-cong-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/ap-to-mat-mcb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\ap-to-mat-mcb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/ap-to-mat-mcb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\ap-to-mat-mcb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/bien-tan/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\bien-tan\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/bien-tan/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\bien-tan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/elcb-easy-pact-ezcv250/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\elcb-easy-pact-ezcv250\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/elcb-easy-pact-ezcv250/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\elcb-easy-pact-ezcv250\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mcb-ezs100e/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mcb-ezs100e\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mcb-ezs100e/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mcb-ezs100e\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-easy-pact-cvs100-630/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-easy-pact-cvs100-630\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-easy-pact-cvs100-630/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-easy-pact-cvs100-630\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-easy-pact-ezc400-630/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-easy-pact-ezc400-630\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-easy-pact-ezc400-630/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-easy-pact-ezc400-630\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-nsxm-16f/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-nsxm-16f\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/mccb-nsxm-16f/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\mccb-nsxm-16f\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-ezs100e-f/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-ezs100e-f\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-ezs100e-f/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-ezs100e-f\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-ezs400-630-f-n/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-ezs400-630-f-n\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-ezs400-630-f-n/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-ezs400-630-f-n\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-mccb-ezc100/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-mccb-ezc100\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-mccb-ezc100/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-mccb-ezc100\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-mccb-ezc250/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-mccb-ezc250\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cau-dao-dang-khoi-mccb/se-mccb-ezc250/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cau-dao-dang-khoi-mccb\se-mccb-ezc250\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cong-tac-den-bao-nut-nhan/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cong-tac-den-bao-nut-nhan\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/cong-tac-den-bao-nut-nhan/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\cong-tac-den-bao-nut-nhan\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/khoi-dong-tu/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\khoi-dong-tu\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/khoi-dong-tu/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\khoi-dong-tu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/relay/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\relay\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/relay/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\relay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-c120h/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-c120h\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-c120h/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-c120h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-c120n/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-c120n\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-c120n/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-c120n\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60h/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60h\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60h/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60h\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60l/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60l\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60l/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60l\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60n/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60n\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ic60n/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ic60n\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ik60/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ik60\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-acti9-ik60/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-acti9-ik60\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-easy9/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-easy9\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-mcb/se-easy9/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-mcb\se-easy9\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/easy9-rcbo/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\easy9-rcbo\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/easy9-rcbo/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\easy9-rcbo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/se-acti9rcbo/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\se-acti9rcbo\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rcbo/se-acti9rcbo/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rcbo\se-acti9rcbo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/easy9-rccb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\easy9-rccb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/easy9-rccb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\easy9-rccb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/se-acti9-rccb/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\se-acti9-rccb\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/schneider-rccb/se-acti9-rccb/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\schneider-rccb\se-acti9-rccb\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/schneider/timers/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\timers\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/schneider/timers/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\schneider\timers\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/siemens/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\siemens\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/siemens/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\siemens\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/thiet-bi-tu-dong-hoa/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\thiet-bi-tu-dong-hoa\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/tinh-nang-vuot-bac-nyb-series-pc-cong-nghiep/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\tinh-nang-vuot-bac-nyb-series-pc-cong-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/tinh-nang-vuot-bac-nyb-series-pc-cong-nghiep/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\tinh-nang-vuot-bac-nyb-series-pc-cong-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/uu-diem-cua-bien-tan-sinamics-g130-siemens/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\uu-diem-cua-bien-tan-sinamics-g130-siemens\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/uu-diem-cua-bien-tan-sinamics-g130-siemens/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\uu-diem-cua-bien-tan-sinamics-g130-siemens\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/gtranslate/24.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\24.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/gtranslate/24a.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\24a.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/gtranslate/alt_flags.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\alt_flags.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/gtranslate/alt_flagsa.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\alt_flagsa.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/gtranslate/gtranslate-style24.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\gtranslate-style24.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/css/styles-frontend.min.css?ver=2.2.6
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\css\styles-frontend.min.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/perfect-woocommerce-brands/assets/js/functions-frontend.min.js?ver=2.2.6
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\perfect-woocommerce-brands\assets\js\functions-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woo-vietnam-checkout/assets/css/devvn_dwas_style.css?ver=2.0.4
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woo-vietnam-checkout\assets\css\devvn_dwas_style.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woo-vietnam-checkout/assets/js/devvn_tinhthanh.js?ver=2.0.4
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woo-vietnam-checkout\assets\js\devvn_tinhthanh.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/select2/select2.full.min.js?ver=4.0.3-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\select2\select2.full.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=1.21.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\yith-woocommerce-quick-view\assets\css\yith-quick-view.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/yith-woocommerce-quick-view/assets/css/yith-quick-view.css?ver=1.21.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\yith-woocommerce-quick-view\assets\css\yith-quick-view-1.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js?ver=1.21.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\yith-woocommerce-quick-view\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/plugins/yith-woocommerce-quick-view/assets/js/frontend.min.js?ver=1.21.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\yith-woocommerce-quick-view\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/webs2-vn/fonts/UTM Avo.svg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\webs2-vn\fonts\UTM Avo.svg
+Content Type: image/svg+xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/webs2-vn/fonts/UTM Avo.ttf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\webs2-vn\fonts\UTM Avo.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/webs2-vn/fonts/UTM Avo.woff
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\webs2-vn\fonts\UTM Avo.woff
+Content Type: application/x-font-woff
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/webs2-vn/fonts/utm-avobold.woff
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\webs2-vn\fonts\utm-avobold.woff
+Content Type: application/x-font-woff
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/themes/webs2-vn/style.css?ver=3.9
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\themes\webs2-vn\style.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/bao-hanh-12-thang-100x100.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\bao-hanh-12-thang-100x100.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/bao-hanh-12-thang.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\bao-hanh-12-thang.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/chinh-sach.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\chinh-sach.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/hotline.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\hotline.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/van-chuyen-trong-24h-100x100.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\van-chuyen-trong-24h-100x100.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2019/01/van-chuyen-trong-24h.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2019\01\van-chuyen-trong-24h.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/delta_logo.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\delta_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/hanyuong-nux-logo.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\hanyuong-nux-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/leipole.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\leipole.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo-autonics3.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo-autonics3.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo-idec.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo-idec.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo-OMRON.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo-OMRON.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo-proface.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo-proface.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo-schneider.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo-schneider.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/logo.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\logo.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/LS_Electric_CI-scaled-1.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\LS_Electric_CI-scaled-1.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/NSXm-16F-4P.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\NSXm-16F-4P.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/oriental-motor.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\oriental-motor.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/Patlite.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\Patlite.png
+Content Type: image/png
+
+Uri: https://dientu2.webtudong8giay.com/wp-content/uploads/2021/01/Siemens_ag_logo.jpg
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\Siemens_ag_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://dientu2.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fche-tao-tu-dien%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fche-tao-tu-dien%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-doi-tra%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-doi-tra%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-thanh-toan%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-thanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fchinh-sach-van-chuyen%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fdien-dan-dung%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fdien-dan-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fiot-smart-factory%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fiot-smart-factory%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426310-4p-16a-36ka-380-415v%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426310-4p-16a-36ka-380-415v%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426311-4p-25a-36ka-380-415v%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426311-4p-25a-36ka-380-415v%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426312-4p-32a-36ka-380-415v%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426312-4p-32a-36ka-380-415v%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426313-4p-40a-36ka-380-415v%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Flv426313-4p-40a-36ka-380-415v%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fmay-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fmay-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Frobot-cong-nghiep%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Frobot-cong-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fthiet-bi-tu-dong-hoa%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fthiet-bi-tu-dong-hoa%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Ftinh-nang-vuot-bac-nyb-series-pc-cong-nghiep%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Ftinh-nang-vuot-bac-nyb-series-pc-cong-nghiep%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fuu-diem-cua-bien-tan-sinamics-g130-siemens%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fuu-diem-cua-bien-tan-sinamics-g130-siemens%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fxe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung%2F
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fdientu2.webtudong8giay.com%2Fxe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung%2F&format=xml
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/171
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\171
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/174
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\174
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/176
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\176
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/180
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\180
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/555
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\555
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/558
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\558
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/560
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\560
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/562
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\562
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/564
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\564
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/pages/770
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\pages\770
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/posts/807
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\posts\807
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/posts/810
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\posts\810
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/posts/816
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\posts\816
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/posts/821
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\posts\821
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product/2679
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product\2679
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product/2682
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product\2682
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product/2685
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product\2685
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product/2687
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product\2687
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/100
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\100
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/101
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\101
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/102
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\102
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/103
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\103
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/104
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\104
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/105
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\105
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/106
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\106
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/107
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\107
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/108
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\108
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/109
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\109
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/110
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\110
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/111
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\111
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/112
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\112
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/113
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\113
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/114
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\114
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/115
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\115
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/116
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\116
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/117
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\117
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/118
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\118
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/120
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\120
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/121
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\121
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/122
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\122
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/123
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\123
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/124
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\124
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/125
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\125
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/126
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\126
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/127
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\127
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/128
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\128
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/131
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\131
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/132
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\132
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/133
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\133
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/134
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\134
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/138
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\138
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/139
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\139
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/140
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\140
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/141
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\141
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/142
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\142
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/143
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\143
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/144
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\144
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/145
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\145
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/146
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\146
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/150
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\150
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/168
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\168
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/203
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\203
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/228
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\228
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/244
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\244
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/287
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\287
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/322
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\322
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/347
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\347
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/388
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\388
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/43
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\43
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/514
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\514
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/62
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\62
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/63
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\63
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/64
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\64
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/65
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\65
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/66
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\66
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/67
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\67
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/68
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\68
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/69
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\69
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/70
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\70
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/71
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\71
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/72
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\72
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/73
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\73
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/74
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\74
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/75
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\75
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/76
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\76
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/77
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\77
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/78
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\78
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/79
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\79
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/80
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\80
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/81
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\81
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/82
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\82
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/83
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\83
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/84
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\84
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/85
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\85
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/86
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\86
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/87
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\87
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/88
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\88
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/89
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\89
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/90
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\90
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/91
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\91
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/92
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\92
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/93
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\93
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/94
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\94
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/95
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\95
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/96
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\96
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/97
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\97
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/98
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\98
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/product_cat/99
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\product_cat\99
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://dientu2.webtudong8giay.com/xe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\xe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung\index.htm
+Content Type: text/html
+
+Uri: https://dientu2.webtudong8giay.com/xe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung/feed/
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\xe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dientu2.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdientu2.webtudong8giay.com%252Fmay-moc-cua-ban-da-san-sang-cho-cong-nghiep-4-0%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdientu2.webtudong8giay.com%252Ftinh-nang-vuot-bac-nyb-series-pc-cong-nghiep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdientu2.webtudong8giay.com%252Fuu-diem-cua-bien-tan-sinamics-g130-siemens%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fdientu2.webtudong8giay.com%252Fxe-tu-hanh-agv-tinh-nang-va-loi-ich-khi-su-dung%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\translate_a\element.js
+Content Type: text/javascript
+
+Uri: https://vikhatech.com/wp-content/plugins/gtranslate/flags/24/en.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\flags\24\en.png
+Content Type: image/png
+
+Uri: https://vikhatech.com/wp-content/plugins/gtranslate/flags/24/vi.png
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\plugins\gtranslate\flags\24\vi.png
+Content Type: image/png
+
+Uri: https://vikhatech.com/wp-content/uploads/2021/01/LV426310.pdf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\LV426310.pdf
+Content Type: application/pdf
+
+Uri: https://vikhatech.com/wp-content/uploads/2021/01/LV426311.pdf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\LV426311.pdf
+Content Type: application/pdf
+
+Uri: https://vikhatech.com/wp-content/uploads/2021/01/LV426312.pdf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\LV426312.pdf
+Content Type: application/pdf
+
+Uri: https://vikhatech.com/wp-content/uploads/2021/01/LV426313.pdf
+File Name: C:\Downloaded Web Sites\dientu2.webtudong8giay.com\wp-content\uploads\2021\01\LV426313.pdf
+Content Type: application/pdf
+
